@@ -6,7 +6,7 @@
 
 - [x] Get data from txt to df or np array
 - [x] Separate sentences
-- [ ] Check for anomalies
+- [x] Check for anomalies
 - [ ] Convert to keras training preferred format
 - [ ] Embeddings
 - [ ] LSTM
