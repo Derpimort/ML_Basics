@@ -7,9 +7,9 @@
 - [x] Get data from txt to df or np array
 - [x] Separate sentences
 - [x] Check for anomalies
-- [ ] Convert to keras training preferred format
+- [x] Convert to keras training preferred format
 - [ ] Embeddings
-- [ ] LSTM
+- [x] LSTM
 ---
 Thanks for the dataset.
 
