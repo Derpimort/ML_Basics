@@ -8,8 +8,9 @@
 - [x] Separate sentences
 - [x] Check for anomalies
 - [x] Convert to keras training preferred format
-- [ ] Embeddings
+- [x] Embeddings
 - [x] LSTM
+- [ ] Train and clean up to modular .py
 ---
 Thanks for the dataset.
 
