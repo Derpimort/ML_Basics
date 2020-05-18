@@ -17,7 +17,7 @@ from torchvision.datasets import FashionMNIST
 from tqdm import tqdm
 from sklearn.metrics import classification_report
 
-device=torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+device=torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 
 N_EPOCHS=10
 B_SIZE=64

@@ -47,7 +47,7 @@ def printData(src_dir, dst_dir,ext_dict, output_suffix):
 	
 	print("\nNumber of files in source directory:")
 	for extension in ext_dict:
-		print(f"{extension} : {total_files[extension]}")
+		print(f"{extension} : {ext_dict[extension]}")
 	
 	print()
 
