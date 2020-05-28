@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+/Data
+.spyproject/
+[mM]odels/
+/UCI
+*.pth
+/FashionMNIST/Testing.ipynb
+/HAM10000/initial-tests-vgg16-ham10000.ipynb
